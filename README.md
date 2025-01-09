@@ -1,4 +1,4 @@
-# Hello! I'm Samhita Sarikonda 👋
+# Hello! I'm Samhita Sarikonda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Welcome to my GitHub! Here, I share my hands-on projects in data science, cloud technologies, and geospatial analysis. Let’s connect and collaborate!
 
@@ -43,7 +43,7 @@ I’ve worked on many other data projects, from recommendation systems to NLP-dr
 🔗 [Visit My GitHub Portfolio for More](https://github.com/samhitasari05)
 
 ## **What I do for Fun**
-When I'm not working on data projects, I enjoy conducting workshops to foster data literacy, and exploring new cuisines in the kitchen. I also stay active by engaging in 🧘‍♀️ fitness activities that keep me energized and focused.
+During my leisure hours, I enjoy watching starwars 🧙‍♂️ one of my top picks whenever I need a break!, and exploring . I also stay active by engaging in 🧘‍♀️ fitness activities that keep me energized and focused.
 
 ## **Key Skills**
 

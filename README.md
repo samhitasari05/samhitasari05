@@ -43,7 +43,7 @@ I’ve worked on many other data projects, from recommendation systems to NLP-dr
 🔗 [Visit My GitHub Portfolio for More](https://github.com/samhitasari05)
 
 ## **What I do for Fun**
-During my leisure hours, I enjoy watching starwars 🧙‍♂️ one of my top picks whenever I need a break!, and exploring . I also stay active by engaging in 🧘‍♀️ fitness activities that keep me energized and focused.
+During my leisure hours, I enjoy watching starwars 🧙‍♂️ one of my top picks whenever I need a break!, and exploring topics on space and I really like watching conspiracy theories too 👽🛸. I also stay active by engaging in 🧘‍♀️ fitness activities that keep me energized and focused.
 
 ## **Key Skills**
 

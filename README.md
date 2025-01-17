@@ -4,13 +4,9 @@ Welcome! You've reached my GitHub 🐙 Data space on the WWW :) Here, I share my
 
 🎓 **Master’s Student in Data Analytics | :woman_technologist: Aspiring Data Scientist | 🧠 ML/NLP Enthusiast | 🚀 AI Explorer**
 
-#<p align="center">
-  #<img src="https://github.com/samhitasari05/samhitasari05/blob/main/Tech%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" width="600" #height="auto" />
-#</p>
-
-<div align="right">
-  <img src="https://github.com/samhitasari05/samhitasari05/blob/main/Tech%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" width="400" height="200" />
-</div>
+<p align="center">
+  <img src="https://github.com/samhitasari05/samhitasari05/blob/main/Tech%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true" width="600" height="400" />
+</p>
 
 ## **About Me**
 💡 When I first embarked on my data journey, I didn’t know where it would lead—but I was fueled by curiosity and a desire to learn. I still remember how overwhelmed I felt when building my first data pipelines. Over time, what began as a daunting challenge became a passion for transforming raw information into actionable insights. 

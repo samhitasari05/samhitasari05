@@ -2,7 +2,7 @@
 
 Welcome! You've reached my GitHub 🐙 Data space on the WWW :) Here, I share my hands-on projects in data science, cloud technologies, and geospatial analysis. Let’s connect and collaborate!🤝
 
-![Tech Working GIF](https://github.com/samhitasari05/samhitasari05/blob/main/Tech%20Working%20GIF%20by%20Pudgy%20Penguins.gifraw=true)
+![Tech Working GIF](https://github.com/samhitasari05/samhitasari05/blob/main/Tech%20Working%20GIF%20by%20Pudgy%20Penguins.gif?raw=true)
 
 🎓 **Master’s Student in Data Analytics | :woman_technologist: Aspiring Data Scientist | 🧠 ML/NLP Enthusiast | 🚀 AI Explorer**
 

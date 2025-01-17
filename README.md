@@ -1,6 +1,6 @@
 # Hello! I'm Samhita Sarikonda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my GitHub you've reached my Data space on the WWW :) Here, I share my hands-on projects in data science, cloud technologies, and geospatial analysis. Let’s connect and collaborate!
+Welcome! You've reached my GitHub 🐙 Data space on the WWW :) Here, I share my hands-on projects in data science, cloud technologies, and geospatial analysis. Let’s connect and collaborate!🤝
 
 🎓 **Master’s Student in Data Analytics | :woman_technologist: Aspiring Data Scientist | 🧠 ML/NLP Enthusiast | 🚀 AI Explorer**
 
